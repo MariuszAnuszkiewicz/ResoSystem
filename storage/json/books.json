@@ -1,0 +1,117 @@
+{
+  "books": [
+    {
+      "name": "Php i MySql Dla Kazdego - wydanie III",
+      "isbn_number": "978-8-32-832479-4",
+      "price": "99"
+    }
+  ,
+    {
+      "name": "Php i MySql Tworzenie stron www Vademecum profesjonalisty - wydanie V",
+      "isbn_number": "978-8-32-833256-0",
+      "price": "109"
+    }
+  ,
+    {
+      "name": "Php Algorytmy i struktury danych",
+      "isbn_number": "978-8-32-834085-5",
+      "price": "59"
+    }
+  ,
+    {
+      "name": "Php Obiekty Wzorce Narzedzia - wydanie V",
+      "isbn_number": "978-8-32-833553-0",
+      "price": "89"
+    }
+  ,
+    {
+      "name": "Javascript i Jquery Interaktywne strony www dla kazdego",
+      "isbn_number": "978-8-32-830126-9",
+      "price": "99"
+    }
+  ,
+    {
+      "name": "Wzorzec MVC w Php dla profesjonalistow",
+      "isbn_number": "978-8-32-467015-4",
+      "price": "79"
+    }
+  ,
+    {
+      "name": "Laravel Tworzenie aplikacji - receptury",
+      "isbn_number": "978-8-32-830302-7",
+      "price": "47"
+    }
+  ,
+    {
+      "name": "Wordpress od podszewki poznaj najpopularniejszy system cms",
+      "isbn_number": "978-8-32-463080-6",
+      "price": "79"
+    }
+  ,
+    {
+      "name": "Zend Framework",
+      "isbn_number": "978-8-32-833283-6",
+      "price": "59"
+    }
+  ,
+    {
+      "name": "Jezyk Sql - Przyjazny podrecznik",
+      "isbn_number": "978-8-32-833190-7",
+      "price": "47"
+    }
+  ,
+    {
+      "name": "Tajemnice Javascriptu - Podrecznik ninja",
+      "isbn_number": "978-8-32-468504-2",
+      "price": "69"
+    }
+  ,
+    {
+      "name": "Pracuj z Corelem - Obodz w sobie artyste. Corel Draw Graphics Suite X5 PL",
+      "isbn_number": "978-8-32-462849-0",
+      "price": "57"
+    }
+  ,
+    {
+      "name": "Tworzenie aplikacji z Yii - Receptury",
+      "isbn_number": "978-8-32-468596-7",
+      "price": "67"
+    }
+  ,
+    {
+      "name": "Php i jquery - Receptury",
+      "isbn_number": "978-8-32-463350-0",
+      "price": "57"
+    }
+  ,
+    {
+      "name": "Javascript - Programowanie Obiektowe",
+      "isbn_number": "978-8-32-462242-9",
+      "price": "49"
+    }
+  ,
+    {
+      "name": "Slowianska Geopolityka",
+      "isbn_number": "978-8-36-535014-5",
+      "price": "45"
+    }
+  ,
+    {
+      "name": "Wiezniowie Geografii",
+      "isbn_number": "978-8-36-567683-2",
+      "price": "39.90"
+    }
+  ,
+    {
+      "name": "Rzeczpospolita miedzy ladem a morzem, o wojnie i pokoju",
+      "isbn_number": "978-8-39-501936-4",
+      "price": "120"
+    }
+  ,
+    {
+      "name": "Zbrodnia i Kara",
+      "isbn_number": "978-8-37-779221-6",
+      "price": "49.90"
+    }
+  ]
+}

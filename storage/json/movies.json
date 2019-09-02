@@ -1,0 +1,64 @@
+{
+    "movies": [
+      {
+        "name": "Cale Szczescie",
+        "data_carrier": "DVD",
+        "price": "29.99"
+      }
+   ,
+      {
+        "name": "Czarna Pantera",
+        "data_carrier": "DVD",
+        "price": "25.99"
+      }
+    ,
+
+      {
+        "name": "Czterej Pancerni i Pies - Kolekcja",
+        "data_carrier": "DVD",
+        "price": "59.99"
+      }
+    ,
+      {
+        "name": "Green Book",
+        "data_carrier": "DVD",
+        "price": "33.99"
+      }
+    ,
+      {
+        "name": "Greta",
+        "data_carrier": "DVD",
+        "price": "25.99"
+      }
+    ,
+      {
+        "name": "Outlander - Sezon 4",
+        "data_carrier": "DVD",
+        "price": "89.99"
+      }
+    ,
+      {
+        "name": "Pan Tadeusz",
+        "data_carrier": "DVD",
+        "price": "18.99"
+      }
+    ,
+      {
+        "name": "Pierwszy Czlowiek",
+        "data_carrier": "DVD",
+        "price": "19.99"
+      }
+    ,
+      {
+        "name": "Podly Okrutny Zly",
+        "data_carrier": "DVD",
+        "price": "29.99"
+      }
+    ,
+      {
+        "name": "Przemytnik",
+        "data_carrier": "DVD",
+        "price": "38.99"
+      }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "musics": [
+
+        {
+            "name": "ACDC - Highway to hell",
+            "data_carrier": "LP",
+            "price": "109"
+        }
+    ,
+        {
+            "name": "Black Sabbath - Paranoid jewel case",
+            "data_carrier": "CD",
+            "price": "29.99"
+        }
+    ,
+        {
+            "name": "Bryan Ferry",
+            "data_carrier": "CD",
+            "price": "34.99"
+        }
+    ,
+        {
+            "name": "Charlie Haden - American Dreams",
+            "data_carrier": "CD",
+            "price": "19.99"
+        }
+    ,
+        {
+            "name": "Czeslaw Niemen - Sen o warszawie",
+            "data_carrier": "CD",
+            "price": "49.99"
+        }
+    ,
+        {
+            "name": "David Gilmour",
+            "data_carrier": "CD",
+            "price": "29.99"
+        }
+    ,
+        {
+            "name": "Lady Punk - O dwoch takich co ukradli ksiezyc",
+            "data_carrier": "CD",
+            "price": "129"
+        }
+    ,
+        {
+            "name": "Lombard - Śmierc dyskotece",
+            "data_carrier": "LP",
+            "price": "49.99"
+        }
+    ,
+        {
+            "name": "Pink Floyd - The dark side of the moon",
+            "data_carrier": "CD",
+            "price": "29.99"
+        }
+    ,
+        {
+            "name": "The Beatles - Yellow submarine",
+            "data_carrier": "LP",
+            "price": "49.99"
+        }
+    ]
+}
